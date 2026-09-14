@@ -102,7 +102,7 @@ graph TD
 
 ## 📁 Project Structure
 
-```
+```text
 FasalDoc_Complete/build/
 ├── src/                         # React 19 PWA Frontend
 │   ├── components/              # Offline banners, UI controls, headers
@@ -288,6 +288,3 @@ docker-compose up --build
   <br>
   <sub>© 2026 FasalDoc — MIT License</sub>
 </div>
-
- 
- 
